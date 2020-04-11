@@ -1,2 +1,2 @@
 # Python-stuff
-Just a collection of things I have made in python
+Just a collection of things I have made in python.
